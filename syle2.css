@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p {
+    background-color: red; /* cor no paragrafo */
+}
+#bg-bigode {
+    background-color: orange; /* cor em uma linha do paragrafo */
+}
+.bg-bigode { background-color: blue;
+}
+
+p {
+    background-color: yellow;
+}
